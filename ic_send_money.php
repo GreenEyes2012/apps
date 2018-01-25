@@ -20,7 +20,7 @@
 
 <div class="container theme-showcase" role="main">
 
-    <h2>Web-Wallet</h2>
+    <h2>Your Wallet</h2>
     <br>
 
     <div class="row">
